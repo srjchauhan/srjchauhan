@@ -6,9 +6,7 @@
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srjchauhan)
-[![Instagram](https://img.shields.io/badge/kodlash.ai-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/kodlash.ai)
- 
- 
+  
 # 💻 Tech Stack
  
 ## GenAI / LLMs
